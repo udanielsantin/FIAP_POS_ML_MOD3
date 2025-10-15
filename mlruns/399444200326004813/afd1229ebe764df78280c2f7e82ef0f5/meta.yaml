@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/FIAP_POS_ML_MOD3/mlruns/399444200326004813/afd1229ebe764df78280c2f7e82ef0f5/artifacts
+end_time: 1760563749809
+entry_point_name: ''
+experiment_id: '399444200326004813'
+lifecycle_stage: active
+run_id: afd1229ebe764df78280c2f7e82ef0f5
+run_name: melodic-kite-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760563559894
+status: 3
+tags: []
+user_id: codespace
